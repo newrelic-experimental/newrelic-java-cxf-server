@@ -1,4 +1,4 @@
-package com.nr.instrumentation.cxf.core;
+package com.newrelic.instrumentation.labs.cxf.core;
 
 import org.apache.cxf.message.Message;
 
